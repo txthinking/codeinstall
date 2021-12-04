@@ -5,7 +5,7 @@
 1. import codeinstall.js
 
     ```
-    <script src="https://cdn.jsdelivr.net/gh/txthinking/codeinstall@main/codeinstall.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/txthinking/codeinstall@master/codeinstall.js"></script>
     ```
 
 2. Example
@@ -13,7 +13,7 @@
     ```
     <html>
         <head>
-            <script src="https://cdn.jsdelivr.net/gh/txthinking/codeinstall@main/codeinstall.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/txthinking/codeinstall@master/codeinstall.js"></script>
         </head>
         <body>
             <button id="download" style="font-size:100px;">Loading...</button>
