@@ -1,0 +1,20 @@
+<html>
+    <script src="https://cdn.jsdelivr.net/gh/txthinking/codeinstall@master/codeinstall.js"></script>
+    <body>
+        <button id="download" style="font-size: 100px">Loading...</button>
+    </body>
+    <script>
+        async function a() {
+            try {
+                var link = await CodeInstall("40bd0cb");
+                document.querySelector("#download").innerText = "Download";
+                document.querySelector("#download").addEventListener("click", () => {
+                    location.href = link;
+                });
+            } catch (e) {
+                alert(`${e}`);
+            }
+        }
+        a();
+    </script>
+</html>
