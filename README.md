@@ -1,7 +1,7 @@
 # CodeInstall (Beta)
 
 ```
-User --> https://your.website.com/download.your.app?code=xxx --> Download APP from AppStore/GooglePlay/APK --> Install APP --> APP gets the code
+User --> https://your.website.com/download.your.app?code=xxx --> Install APP --> APP gets the code
 ```
 
 > Contact cloud@txthinking.com to get the APPID
