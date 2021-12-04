@@ -61,7 +61,7 @@
 
 ## iOS
 
-1. Download SDK: [Codeinstallsdk.xcframework](Codeinstallsdk.xcframework.zip)
+1. Download SDK: [Codeinstallsdk.framework](Codeinstallsdk.framework.zip)
 
 2. Example
 
