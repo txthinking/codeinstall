@@ -80,3 +80,7 @@
     }
     // code comes from the web; or empty string if expired or not found; please cache it
     ```
+
+## Demo(Android)
+
+https://txthinking.github.io/codeinstall/demo.html?code=1234
