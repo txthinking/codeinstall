@@ -1,4 +1,6 @@
-# CodeInstall
+# CodeInstall (Beta)
+
+> Contact cloud@txthinking.com to get the APPID
 
 ## Web
 
@@ -82,5 +84,7 @@
     ```
 
 ## Demo(Android)
+
+> 1234 can be any string
 
 [https://txthinking.github.io/codeinstall/demo.html?code=1234](https://txthinking.github.io/codeinstall/demo.html?code=1234)
