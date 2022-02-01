@@ -1,6 +1,6 @@
 # CodeInstall
 
-https://codeinstall.app
+[https://codeinstall.app](https://codeinstall.app)
 
 ## Web
 
