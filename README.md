@@ -1,4 +1,3 @@
-# CodeInstall
 
 [https://codeinstall.app](https://codeinstall.app)
 
