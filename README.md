@@ -1,10 +1,6 @@
-# CodeInstall (Beta)
+# CodeInstall
 
-```
-User --> https://your.website.com/download.your.app?code=xxx --> Install APP --> APP gets the code
-```
-
-> Contact cloud@txthinking.com to get the APPID
+https://codeinstall.app
 
 ## Web
 
