@@ -1,5 +1,5 @@
 
-[https://codeinstall.app](https://codeinstall.app)
+https://www.txthinking.com/codeinstall.html
 
 ## Web
 
@@ -81,9 +81,3 @@
     }
     // code comes from the web; or empty string if expired or not found; please cache it
     ```
-
-## Demo(Android)
-
-> 1234 can be any string
-
-[https://txthinking.github.io/codeinstall/demo.html?code=1234](https://txthinking.github.io/codeinstall/demo.html?code=1234)
